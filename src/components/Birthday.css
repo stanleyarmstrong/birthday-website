@@ -1,0 +1,37 @@
+.background1 {
+    position: absolute;
+    height: 20vh;
+    top: 5vh;
+    left: 2vw;
+}
+
+.background2 {
+    position: absolute;
+    height: 15vh;
+    top: 5vh;
+    right: 5vw;
+
+}
+
+.background3 {
+    position: absolute;
+    height: 15vh;
+    bottom: 5vh;
+    left: 5vw;
+}
+
+.background4 {
+    position: absolute;
+    height: 20vh;
+    bottom: 5vh;
+    right: 2vw;
+}
+
+.birthday_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 94vh;
+    color: white; 
+    font-family: 'Indie Flower', cursive;
+}
