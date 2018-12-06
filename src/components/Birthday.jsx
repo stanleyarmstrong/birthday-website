@@ -7,9 +7,12 @@ class Birthday extends React.Component {
       <div> 
         <img className="background1" src={this.props.background_icon1} alt="boba" />
         <img className="background2" src={this.props.background_icon2} alt="boba" />
-        <h1 className="birthday_text"> 
-          {this.props.text}
-        </h1>
+        <div className="birthday">
+          <h1> 
+            {this.props.text}
+          </h1>
+          <img className="profile" src={this.props.profile} alt="profile" />
+        </div>
         <img className="background3" src={this.props.background_icon2} alt="boba" />
         <img className="background4" src={this.props.background_icon1} alt="boba" />
       </div>

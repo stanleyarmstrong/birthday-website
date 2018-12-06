@@ -1,13 +1,15 @@
 import React from 'react';
 import Birthday from './Birthday';
+import Profile from '../assets/profile.png';
 
 const App = () => {
   return (
     <div className="birthday">
       <Birthday
-      text='Happy Birthday Liz!'
-      background_icon1='https://media.giphy.com/media/28NO42IhLsjza85aA5/giphy.gif'
-      background_icon2='https://i.gifer.com/54vI.gif'
+      text='Merry Christmas Nikky!'
+      background_icon1='https://thumbs.gfycat.com/DopeyWildArgusfish-size_restricted.gif'
+      background_icon2='http://clipart-library.com/images/6ir6y8biK.gif'
+      profile= {Profile}
       />
     </div>
   )

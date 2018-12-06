@@ -27,11 +27,15 @@
     right: 2vw;
 }
 
-.birthday_text {
+.birthday {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 94vh;
+    height: 85vh;
     color: white; 
     font-family: 'Indie Flower', cursive;
+}
+.profile {
+    height: 30vh;
 }
