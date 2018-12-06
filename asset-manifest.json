@@ -1,13 +1,14 @@
 {
-  "main.css": "/birthday-website/static/css/main.edd86787.chunk.css",
-  "main.js": "/birthday-website/static/js/main.771a39be.chunk.js",
-  "main.js.map": "/birthday-website/static/js/main.771a39be.chunk.js.map",
-  "static/js/1.f68dcc1a.chunk.js": "/birthday-website/static/js/1.f68dcc1a.chunk.js",
-  "static/js/1.f68dcc1a.chunk.js.map": "/birthday-website/static/js/1.f68dcc1a.chunk.js.map",
+  "main.css": "/birthday-website/static/css/main.33a5ed7d.chunk.css",
+  "main.js": "/birthday-website/static/js/main.0630b65e.chunk.js",
+  "main.js.map": "/birthday-website/static/js/main.0630b65e.chunk.js.map",
+  "static/js/1.2dd891c4.chunk.js": "/birthday-website/static/js/1.2dd891c4.chunk.js",
+  "static/js/1.2dd891c4.chunk.js.map": "/birthday-website/static/js/1.2dd891c4.chunk.js.map",
   "runtime~main.js": "/birthday-website/static/js/runtime~main.feffc980.js",
   "runtime~main.js.map": "/birthday-website/static/js/runtime~main.feffc980.js.map",
-  "static/css/main.edd86787.chunk.css.map": "/birthday-website/static/css/main.edd86787.chunk.css.map",
+  "static/media/profile.png": "/birthday-website/static/media/profile.4293425c.png",
+  "static/css/main.33a5ed7d.chunk.css.map": "/birthday-website/static/css/main.33a5ed7d.chunk.css.map",
   "index.html": "/birthday-website/index.html",
-  "precache-manifest.590739a3d436400f2945874ab41f3f3a.js": "/birthday-website/precache-manifest.590739a3d436400f2945874ab41f3f3a.js",
+  "precache-manifest.24ea534050be2e68ea253113d6aaa2d0.js": "/birthday-website/precache-manifest.24ea534050be2e68ea253113d6aaa2d0.js",
   "service-worker.js": "/birthday-website/service-worker.js"
 }
